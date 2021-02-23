@@ -1,0 +1,19 @@
+body{
+
+
+  background-image: url("images/8.JPG")
+}
+
+.row{
+
+  background: white;
+}
+
+.d-flex,.container-fluid{
+
+  position: relative;
+}
+.button{
+
+  position: relative;
+}
